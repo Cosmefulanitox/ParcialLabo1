@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1684280746 source:c:\users\pc\desktop\programacion 2023\laboratorio 2\modelodeparcial1\agencitransito\agenciatransito\agente.cpp
+	"Agente.h"
+	<cstring>
+
+1684359900 c:\users\pc\desktop\programacion 2023\laboratorio 2\modelodeparcial1\agencitransito\agenciatransito\agente.h
+	<string>
+
+1684280862 source:c:\users\pc\desktop\programacion 2023\laboratorio 2\modelodeparcial1\agencitransito\agenciatransito\agentearchivo.cpp
+	"AgenteArchivo.h"
+	<cstdio>
+
+1684280914 c:\users\pc\desktop\programacion 2023\laboratorio 2\modelodeparcial1\agencitransito\agenciatransito\agentearchivo.h
+	"Agente.h"
+	<string>
+
+1683846750 source:c:\users\pc\desktop\programacion 2023\laboratorio 2\modelodeparcial1\agencitransito\agenciatransito\fecha.cpp
+	<string>
+	"Fecha.h"
+
+1684279156 c:\users\pc\desktop\programacion 2023\laboratorio 2\modelodeparcial1\agencitransito\agenciatransito\fecha.h
+	<string>
+
+1685320515 source:c:\users\pc\desktop\programacion 2023\laboratorio 2\modelodeparcial1\agencitransito\agenciatransito\funciones.cpp
+	"Funciones.h"
+
+1685320515 c:\users\pc\desktop\programacion 2023\laboratorio 2\modelodeparcial1\agencitransito\agenciatransito\funciones.h
+	<iostream>
+	"MultaArchivo.h"
+	"AgenteArchivo.h"
+
+1684278570 c:\users\pc\desktop\programacion 2023\laboratorio 2\modelodeparcial1\agencitransito\agenciatransito\multaarchivo.h
+	"Multa.h"
+	<string>
+
+1684280324 c:\users\pc\desktop\programacion 2023\laboratorio 2\modelodeparcial1\agencitransito\agenciatransito\multa.h
+	<string>
+	"Fecha.h"
+
+1685321645 source:c:\users\pc\desktop\programacion 2023\laboratorio 2\modelodeparcial1\agencitransito\agenciatransito\modeloparcial.cpp
+	"ModeloParcial.h"
+
+1685320515 c:\users\pc\desktop\programacion 2023\laboratorio 2\modelodeparcial1\agencitransito\agenciatransito\modeloparcial.h
+	<iostream>
+	"AgenteArchivo.h"
+	"MultaArchivo.h"
+	<iomanip>
+
+1684279694 source:c:\users\pc\desktop\programacion 2023\laboratorio 2\modelodeparcial1\agencitransito\agenciatransito\multa.cpp
+	"Multa.h"
+	<string>
+	<cstring>
+
+1684279680 source:c:\users\pc\desktop\programacion 2023\laboratorio 2\modelodeparcial1\agencitransito\agenciatransito\multaarchivo.cpp
+	"MultaArchivo.h"
+	<cstdio>
+
+1684279772 source:c:\users\pc\desktop\programacion 2023\laboratorio 2\modelodeparcial1\agencitransito\agenciatransito\multamanager.cpp
+	<iostream>
+	"MultaManager.h"
+
+1685313426 c:\users\pc\desktop\programacion 2023\laboratorio 2\modelodeparcial1\agencitransito\agenciatransito\multamanager.h
+	"Multa.h"
+	"MultaArchivo.h"
+
+1685318508 source:c:\users\pc\desktop\programacion 2023\laboratorio 2\modelodeparcial1\agencitransito\agenciatransito\main.cpp
+	<iostream>
+	"AgenteArchivo.h"
+	"MultaArchivo.h"
+	"ModeloParcial.h"
+
