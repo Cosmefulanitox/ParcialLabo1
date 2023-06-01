@@ -11,6 +11,8 @@ class ModeloParcial
 
         void punto1 ();
         void punto2 ();
+         void punto3 ();
+         void punto4();
 
 
     private:

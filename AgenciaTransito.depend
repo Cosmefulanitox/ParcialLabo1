@@ -14,7 +14,7 @@
 	"Agente.h"
 	<string>
 
-1683846750 source:c:\users\pc\desktop\programacion 2023\laboratorio 2\modelodeparcial1\agencitransito\agenciatransito\fecha.cpp
+1685322907 source:c:\users\pc\desktop\programacion 2023\laboratorio 2\modelodeparcial1\agencitransito\agenciatransito\fecha.cpp
 	<string>
 	"Fecha.h"
 
@@ -33,14 +33,14 @@
 	"Multa.h"
 	<string>
 
-1684280324 c:\users\pc\desktop\programacion 2023\laboratorio 2\modelodeparcial1\agencitransito\agenciatransito\multa.h
+1685322907 c:\users\pc\desktop\programacion 2023\laboratorio 2\modelodeparcial1\agencitransito\agenciatransito\multa.h
 	<string>
 	"Fecha.h"
 
-1685321645 source:c:\users\pc\desktop\programacion 2023\laboratorio 2\modelodeparcial1\agencitransito\agenciatransito\modeloparcial.cpp
+1685588341 source:c:\users\pc\desktop\programacion 2023\laboratorio 2\modelodeparcial1\agencitransito\agenciatransito\modeloparcial.cpp
 	"ModeloParcial.h"
 
-1685320515 c:\users\pc\desktop\programacion 2023\laboratorio 2\modelodeparcial1\agencitransito\agenciatransito\modeloparcial.h
+1685584701 c:\users\pc\desktop\programacion 2023\laboratorio 2\modelodeparcial1\agencitransito\agenciatransito\modeloparcial.h
 	<iostream>
 	"AgenteArchivo.h"
 	"MultaArchivo.h"
@@ -63,7 +63,7 @@
 	"Multa.h"
 	"MultaArchivo.h"
 
-1685318508 source:c:\users\pc\desktop\programacion 2023\laboratorio 2\modelodeparcial1\agencitransito\agenciatransito\main.cpp
+1685586728 source:c:\users\pc\desktop\programacion 2023\laboratorio 2\modelodeparcial1\agencitransito\agenciatransito\main.cpp
 	<iostream>
 	"AgenteArchivo.h"
 	"MultaArchivo.h"
